@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20views&color=0e75b6&style=flat" alt="rashadkhan97" /> </p>
 
-- I'm currently working as [Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
+- I'm currently working as [Digital Marketing Expert](https://www.fiverr.com/rashad_khan) and [Content and Design Lead](https://www.facebook.com/ESABBUBTUnitFace)
 
 - 🌱 I’m currently learning **Python, Wordpress, HTML & CSS**
 
