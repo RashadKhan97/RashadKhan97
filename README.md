@@ -13,7 +13,7 @@
 
 - 📩 How to reach me **https://www.facebook.com/rashadkhan97**
 
-- ⚡ Fun fact **I am funny 😁, talkative 😜, friendly ❤**
+- ⚡ Fun fact **I am funny 😁, talkative 😜, friendly 👨‍👩‍👦‍👦**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
