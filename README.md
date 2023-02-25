@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Rashadul Islam</h1>
 <h3 align="center">I am Bangladeshi by born and currently studying on B.sc in CSE at BUBT and</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw3TIbYTsd7GaZdCKhi7rU4S&ust=1677392510831000&source=images&cd=vfe&ved=0CBEQ3YkBahcKEwjAkaO2hLD9AhUAAAAAHQAAAAAQAw">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20views&color=0e75b6&style=flat" alt="rashadkhan97" /> </p>
 
