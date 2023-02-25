@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available and will be avaialbeat [https://github.com/RashadKhan97](https://github.com/RashadKhan97)
 
-- 📫 How to reach me **https://www.facebook.com/rashadkhan97**
+- 📩 How to reach me **https://www.facebook.com/rashadkhan97**
 
 - ⚡ Fun fact **I am funny 😁, talkative 😜, friendly ❤**
 
