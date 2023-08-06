@@ -7,7 +7,7 @@
 
 - I'm currently working as [Digital Marketing Expert](https://www.fiverr.com/rashad_khan) , [Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace) and [Joint Creative Designer](https://www.facebook.com/ieeebubtras)
 
-- 🌱 I’m currently learning **Python, Wordpress, HTML & CSS**
+- 🌱 I’m currently learning **SQA**
 
 - 👨‍💻 All of my projects are available and will be avaialbeat [https://github.com/RashadKhan97](https://github.com/RashadKhan97)
 
