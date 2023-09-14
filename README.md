@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20views&color=0e75b6&style=flat" alt="rashadkhan97" /> </p>
 
-- I'm currently working as [Digital Marketing Expert](https://www.fiverr.com/rashad_khan) , [Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace) and [Joint Creative Designer](https://www.facebook.com/ieeebubtras)
+- I'm currently working as [Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace), [Joint Creative Designer](https://www.facebook.com/ieeebubtras) and [Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
 
 - 🌱 I’m currently learning **Hands on SQA and Cyber Security**
 
