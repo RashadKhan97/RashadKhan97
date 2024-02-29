@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Rashadul Islam</h1>
-<h3 align="center">I am Bangladeshi by born and currently studying on B.sc in CSE at BUBT</h3>
+<h3 align="center">I am Bangladeshi by born and completed my study on B.sc in CSE at BUBT</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20views&color=0e75b6&style=flat" alt="rashadkhan97" /> </p>
 
-- I'm currently working as [Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace), [Joint Creative Designer](https://www.facebook.com/ieeebubtras) and [Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
+- I'm currently working as [Operation Lead](https://www.facebook.com/ESABBUBTUnitFace), and [Former - Joint Creative Designer](https://www.facebook.com/ieeebubtras) and [Former - Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
 
 - 🌱 I’m currently learning **Hands on SQA and Cyber Security**
 
